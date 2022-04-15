@@ -1,0 +1,14 @@
+D:\Daily Doc\PKL\PROGRAM\tombol_files\button_bg.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\buttonhot_bg.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\menu_bg.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\menu_bg1.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\menu_bg2.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\menu_bg3.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\ebab_mbmcp.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\ebab_mbmcp_d.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\ebab_mbmcp_c.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\ebab_mbmcp_c2.png
+D:\Daily Doc\PKL\PROGRAM\tombol_files\mbjsmbmcp.js
+D:\Daily Doc\PKL\PROGRAM\tombol_files\mbcsmbmcp.css
+D:\Daily Doc\PKL\PROGRAM\tombol.htm
+D:\Daily Doc\PKL\PROGRAM\tombol_files\filelist_zzck.txt

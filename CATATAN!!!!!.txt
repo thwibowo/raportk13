@@ -1,0 +1,9 @@
+//menentukan predikat ABC, dengan mencari nilai tertinggi & terendah, hasilnya ditampilkan ke deskripsi, A/sangat baik dalam, B/baik dalam, C/cukup baik dalam, D/perlu dimbingan dalam
+//pakai rumus (100-kkm)/3 = (pembulatan ke bawah), contoh kkm 75, jadi (100-75)/3 = 8,333 , dibulatkan jadi 8, sehingga nilai A=91, B=83, C=75,(selisih) D bila dibawah kkm
+// nilai cukup A, B & C
+//kkm ditentukan oleh sekolah masing"
+//Aspek pengeteahuan (KI3), ASpek keterampilan (KI4)
+//tambahkan nama kepsek dan NIPnya, Nama dulu baru NIP, tanggal penulisan raport di sebelah tahun ajaran
+//penilaian spiritual ada 4 aspek/lebih, penilaian sosial 3/4 aspek 
+//untuk penilaian sosial & spiritual dibuat 4 kali penilaian, dan mucul di raport berupa deskripsinya saja, nilai akhirnya diperoleh dengan modus
+//tidak hadir tanpa keterangan mask 3 kali, lebih dari itu tidak naik kelas
